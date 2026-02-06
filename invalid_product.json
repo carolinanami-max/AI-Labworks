@@ -1,0 +1,11 @@
+{
+  "product": {
+    "name": "",
+    "price": -50.0,
+    "category": "invalid_category",
+    "in_stock": "yes"
+  },
+  "target_audience": "",
+  "tone": 123,
+  "language": 456
+}

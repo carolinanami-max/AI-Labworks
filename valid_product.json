@@ -1,0 +1,13 @@
+{
+  "product": {
+    "name": "Wireless Headphones",
+    "price": 129.99,
+    "category": "electronics",
+    "description": "Noise-cancelling wireless headphones",
+    "brand": "SoundMax",
+    "in_stock": true
+  },
+  "target_audience": "tech enthusiasts",
+  "tone": "enthusiastic",
+  "language": "English"
+}
